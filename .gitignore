@@ -1,0 +1,8 @@
+**/Temp/
+**/Cache/
+**/Build/
+**/Exports/
+**/*.blend1
+**/*.psd~
+**/.DS_Store
+Thumbs.db

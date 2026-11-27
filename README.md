@@ -31,3 +31,10 @@ Game-001-Artists
 ## 開発状況
 
 開発基盤構築中。
+
+## 利用方法
+
+- 作業は `main` からブランチを作成し、Pull Requestで提案してください。
+- タスクはGitHub Issues / Projectsで管理します。
+- 変更の責務: Game-001-Art。担当Team: `Game-001-Artists`。
+- 依存関係や開発状況は [DevelopmentDocs](https://github.com/FUREQ-DEVELOP/DevelopmentDocs) を参照してください。
